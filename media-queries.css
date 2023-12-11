@@ -1,0 +1,558 @@
+@media (max-width: 1518px) {
+    .promocao {
+        padding: 0 120px;
+    }
+    .cards {
+        width: 90vw;
+    }
+
+    .section-footer1 {
+        padding: 0 120px;
+    }
+
+    .section-footer2 {
+        padding: 0 120px;
+    }
+
+    .cartao-credito {
+        width: 50vw;
+        padding-left: 120px;
+        text-align: end;
+    }
+
+    .cartao-credito img {
+        margin-left: 30px;
+    }
+
+    input {
+        width: 24vw;
+    }
+
+    form {
+        width: 30vw;
+    }
+
+    .btn-footer {
+        width: 12vw;
+    }
+}
+
+@media (max-width: 1381px) {
+    .promocao {
+        padding: 0 120px;
+    }
+    .cards {
+        width: 90vw;
+    }
+
+    .section-footer1 {
+        padding: 120px;
+    }
+}
+
+@media (max-width: 1229px) {
+    .promocao {
+        padding: 0 60px;
+    }
+    .cards {
+        width: 100vw;
+    }
+
+    .section-footer1 {
+        padding: 60px;
+    }
+
+    form {
+        width: 35vw;
+    }
+
+    .section-footer2 {
+        padding: 0 70px;
+    }
+}
+
+@media (max-width: 1121px) {
+    .cards {
+        width: 96vw;
+    }
+
+    .cards-detalhes {
+        width: 250px;
+    }
+
+    .image-card {
+        width: 230px;
+    }
+
+    figure {
+        width: 230px;
+    }
+
+    .informacao {
+        width: 230px;
+        height: 140px;
+    }
+
+    input {
+        width: 27vw;
+    }
+
+    form {
+        width: 40vw;
+    }
+
+    .btn-footer {
+        width: 14vw;
+    }
+
+    .section-footer2 {
+        padding: 0 60px;
+    }
+}
+
+@media (max-width: 947px) {
+    .logo-marca {
+        padding-left: 40px;
+    }
+    .links-header {
+        padding-right: 40px;
+    }
+
+    .cards {
+        width: 96%;
+    }
+
+    .cards-detalhes {
+        width: 300px;
+    }
+
+    .image-card {
+        width: 250px;
+    }
+
+    figure {
+        width: 250px;
+    }
+
+    .informacao {
+        width: 250px;
+        height: 140px;
+    }
+
+    input {
+        width: 50vw;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    .btn-footer {
+        width: 20vw;
+    }
+
+    .links-informacao {
+        width: 100%;
+    }
+
+    .section-footer1 {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0 40px;
+    }
+
+    .section-footer2 {
+        padding: 0 50px;
+    }
+}
+
+@media (max-width: 762px) {
+    .cards {
+        width: 100vw;
+    }
+
+    .cards-detalhes {
+        width: 290px;
+    }
+
+    .cartao-credito {
+        width: 60vw;
+    }
+
+    input {
+        width: 34vw;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    .btn-footer {
+        width: 18vw;
+    }
+
+    .section-footer2 {
+        padding: 0 40px;
+    }
+}
+
+@media (max-width: 690px) {
+    .banner img {
+        width: 90%;
+    }
+
+    .banner {
+        background-size: 190% 90%;
+    }
+
+    .logo-marca {
+        padding-left: 14px;
+    }
+    .links-header {
+        padding-right: 14px;
+    }
+
+    .selfcare {
+        width: 100px;
+        height: 25px;
+    }
+
+    .estrela-logo {
+        width: 25px;
+        margin-right: 8px;
+    }
+
+    .links-header img {
+        width: 24px;
+    }
+
+    .promocao {
+       
+
+        padding: 0 30px;
+    }
+
+    .promocao h2 {
+        font-size: 20px;
+    }
+
+    .promocao p {
+        font-size: 18px;
+    }
+
+    .cards {
+        display: flex;
+        justify-content: center;
+        width: 100vw;
+    }
+
+    .cards-detalhes {
+        width: 300px;
+    }
+
+    .section-footer1 {
+        height: 35vh;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    input {
+        width: 50vw;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    .btn-footer {
+        width: 30vw;
+    }
+
+    .cartao-credito {
+        width: 69%;
+    }
+
+    .paypal {
+        width: 10%;
+    }
+
+    .master {
+        width: 18%;
+    }
+
+    .visa {
+        width: 17%;
+    }
+
+    .redes {
+        width: 22vw;
+    }
+
+    .redes img {
+        width: 26%;
+    }
+
+    .cartao-credito img {
+        margin-left: 19px;
+    }
+
+    .section-footer2 {
+        padding: 0 10px;
+    }
+}
+
+@media (max-width: 490px) {
+    .logo-marca {
+        padding-left: 9px;
+    }
+    .links-header {
+        padding-right: 0;
+    }
+
+    .selfcare {
+        width: 80px;
+        height: 25px;
+    }
+
+    .estrela-logo {
+        width: 23px;
+        margin-right: 7px;
+    }
+
+    .links-header img {
+        width: 20px;
+        margin-right: 14px;
+    }
+
+    .cards {
+        width: 100%;
+    }
+
+    .informacao {
+        width: 230px;
+        height: 140px;
+    }
+
+    footer {
+        height: 45vh;
+    }
+
+    .section-footer1 {
+        height: 35vh;
+    }
+    .section-footer2 {
+        height: 10vh;
+    }
+
+    .cartao-credito {
+        width: 60%;
+        padding: 0;
+        text-align: center;
+    }
+    .redes {
+        width: 40%;
+        text-align: center;
+    }
+
+    .links-informacao {
+        height: 17vh;
+        margin-top: 29px;
+    }
+
+    .cartao-credito img {
+        width: 10%;
+    }
+
+    .redes img {
+        width: 15%;
+    }
+}
+
+@media (max-width: 320px) {
+    .promocao {
+        padding: 0 20px;
+    }
+
+    .promocao h2 {
+        font-size: 14px;
+    }
+
+    .promocao p {
+        font-size: 12px;
+    }
+
+    .cards {
+        width: 100%;
+    }
+
+    .cards-detalhes {
+        width: 200px;
+    }
+
+    .image-card {
+        width: 140px;
+    }
+
+    figure {
+        width: 140px;
+    }
+
+    .informacao {
+        width: 140px;
+        height: 140px;
+    }
+
+    footer {
+        height: 50vh;
+    }
+
+    .section-footer1 {
+        height: 49vh;
+    }
+    .section-footer2 {
+        height: 10vh;
+    }
+}
+
+@media (max-width: 162px) {
+    header {
+        flex-direction: column;
+        height: 50vh;
+    }
+
+    .banner {
+        height: 80vh;
+    }
+
+    .banner img {
+        width: 77%;
+    }
+
+    .estrela-logo {
+        display: none;
+    }
+
+    .links-header{
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .selfcare {
+        width: 70px;
+        height: 20px;
+        margin-left: 9px;
+        padding-top: 2px;
+    }
+
+    .links-header img {
+        margin-right: 24px;
+        padding-top: 10px;
+    }
+
+    .logo-marca {
+        padding-left: 0;
+    }
+
+    .cards {
+        width: 100%;
+    }
+
+    .promocao {
+        height: 28vh;
+        padding: 7px;
+    }
+    .promocao h2 {
+        font-size: 10px;
+        font-weight: 600;
+    }
+
+    .promocao p {
+        font-size: 10px;
+    }
+
+   
+    footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 300px;
+    }
+
+    .section-footer1 {
+        height: 320px;
+        padding: 0;
+    }
+
+    .section-footer2 {
+        height: 80px;
+        flex-direction: column;
+        padding-top: 10px;
+        margin-top: 10px;
+    }
+
+    .links-informacao {
+        height: 146px;
+        margin-top: 40px;
+    }
+
+    a {
+        line-height: 26px;
+        font-size: 12px;
+    }
+
+    .cartao-credito {
+        padding: 7px 0;
+        width: 150px;
+    }
+
+    .cartao-credito img {
+        width: 20px;
+        margin-left: 0;
+        margin: 0 9px;
+    }
+
+    .redes {
+        width: 150px;
+    }
+
+    .redes img {
+        margin: 0 16px;
+    }
+
+    form {
+        height: 100px;
+        width: 100vw;
+        margin-top: 10px;
+    }
+
+    input {
+        height: 18vh;
+        width: 60vw;
+        padding: 0;
+    }
+
+    .btn-footer {
+        width: 40vw;
+        height: 18vh;
+        font-size: 0.6em;
+    }
+
+    input::placeholder {
+        padding-left: 0;
+    }
+
+    a {
+        font-size: 1em;
+        margin-bottom: 14px;
+    }
+
+    .newsletter-label {
+        font-size: 1.4em;
+    }
+
+    input::placeholder {
+        font-size: 0.7em;
+        color: #000;
+        font-weight: 900;
+    }
+}
